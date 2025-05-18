@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$dbname = 'pc_parts';
+$dbname = 'pc_assemblies_db';
 $username = 'root';
-$password = '';
+$password = '123';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
