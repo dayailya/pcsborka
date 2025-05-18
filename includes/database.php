@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
-$dbname = '';
-$username = '';
+$dbname = 'pc_parts';
+$username = 'root';
 $password = '';
 
 try {
